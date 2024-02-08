@@ -1,0 +1,18 @@
+{
+  "news": [],
+  "categories": [],
+  "users": [
+    {
+      "id": "d371",
+      "name": "Your Name",
+      "email": "qwe",
+      "password": "1234"
+    }, 
+    {
+      "id": "d371",
+      "name": "Your Name",
+      "email": "dd",
+      "password": "123"
+    }
+  ]
+}
